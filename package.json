@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/treehouse/mean-todo#readme",
   "dependencies": {
+    "angular": "^1.4.8",
     "express": "4.13.4"
+  },
+  "devDependencies": {
+    "webpack": "1.12.14"
   }
 }
