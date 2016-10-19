@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/vasilty/mean-todo#readme",
   "dependencies": {
-    "express": "4.14.0"
+    "angular": "^1.5.8",
+    "express": "4.14.0",
+    "mongoose": "4.6.4"
+  },
+  "devDependencies": {
+    "webpack": "1.13.2"
   }
 }
